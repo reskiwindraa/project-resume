@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background-color: black;
+    justify-content: center;
+    text-align: left;
+    position: relative;
+    list-style-position: inside;
+    text-decoration: none;
+}
+h1 {
+    font-style: italic;
+    
+}
+
+img  {
+    width: 150px;
+    position: relative;
+    align-items: center;
+}
